@@ -1,4 +1,4 @@
-const Data = [
+[
   {
     id: 1,
     image: img1,
