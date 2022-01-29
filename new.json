@@ -88,5 +88,50 @@
      "dataTime": "21/09/2022",
      "time": "18: 00",
      "type": "Online"
+  },
+  {
+     "id": 6,
+     "image": "https://raw.githubusercontent.com/filosof777/DataPersons/main/img/img-6.png",
+     "title": "Kasb tanlash bo'yicha masterclass",
+     "name": "Muxtassar Nazarova",
+     "imagePensil": "https://raw.githubusercontent.com/filosof777/DataPersons/fad93678ee3483be693d63b1197871fbd30d87bd/icons/pensil.svg",
+     "imageCalendar": "https://raw.githubusercontent.com/filosof777/DataPersons/fad93678ee3483be693d63b1197871fbd30d87bd/icons/calendar.svg",
+     "imageClock": "https://raw.githubusercontent.com/filosof777/DataPersons/fad93678ee3483be693d63b1197871fbd30d87bd/icons/clock.svg",
+     "imageWatchOffline": "https://raw.githubusercontent.com/filosof777/DataPersons/fad93678ee3483be693d63b1197871fbd30d87bd/icons/ofline.svg",
+     "imageWatchOnline": "https://raw.githubusercontent.com/filosof777/DataPersons/fad93678ee3483be693d63b1197871fbd30d87bd/icons/online.svg",
+     "category": "Node JS",
+     "dataTime": "21/09/2022",
+     "time": "18: 00",
+     "type": "Online"
+  },
+  {
+     "id": 6,
+     "image": "https://raw.githubusercontent.com/filosof777/DataPersons/main/img/img-6.png",
+     "title": "Kasb tanlash bo'yicha masterclass",
+     "name": "Muxtassar Nazarova",
+     "imagePensil": "https://raw.githubusercontent.com/filosof777/DataPersons/fad93678ee3483be693d63b1197871fbd30d87bd/icons/pensil.svg",
+     "imageCalendar": "https://raw.githubusercontent.com/filosof777/DataPersons/fad93678ee3483be693d63b1197871fbd30d87bd/icons/calendar.svg",
+     "imageClock": "https://raw.githubusercontent.com/filosof777/DataPersons/fad93678ee3483be693d63b1197871fbd30d87bd/icons/clock.svg",
+     "imageWatchOffline": "https://raw.githubusercontent.com/filosof777/DataPersons/fad93678ee3483be693d63b1197871fbd30d87bd/icons/ofline.svg",
+     "imageWatchOnline": "https://raw.githubusercontent.com/filosof777/DataPersons/fad93678ee3483be693d63b1197871fbd30d87bd/icons/online.svg",
+     "category": "Node JS",
+     "dataTime": "21/09/2022",
+     "time": "18: 00",
+     "type": "Online"
+  },
+  {
+     "id": 6,
+     "image": "https://raw.githubusercontent.com/filosof777/DataPersons/main/img/img-6.png",
+     "title": "Kasb tanlash bo'yicha masterclass",
+     "name": "Muxtassar Nazarova",
+     "imagePensil": "https://raw.githubusercontent.com/filosof777/DataPersons/fad93678ee3483be693d63b1197871fbd30d87bd/icons/pensil.svg",
+     "imageCalendar": "https://raw.githubusercontent.com/filosof777/DataPersons/fad93678ee3483be693d63b1197871fbd30d87bd/icons/calendar.svg",
+     "imageClock": "https://raw.githubusercontent.com/filosof777/DataPersons/fad93678ee3483be693d63b1197871fbd30d87bd/icons/clock.svg",
+     "imageWatchOffline": "https://raw.githubusercontent.com/filosof777/DataPersons/fad93678ee3483be693d63b1197871fbd30d87bd/icons/ofline.svg",
+     "imageWatchOnline": "https://raw.githubusercontent.com/filosof777/DataPersons/fad93678ee3483be693d63b1197871fbd30d87bd/icons/online.svg",
+     "category": "Node JS",
+     "dataTime": "21/09/2022",
+     "time": "18: 00",
+     "type": "Online"
   }
 ]
